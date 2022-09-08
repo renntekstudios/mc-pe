@@ -1,7 +1,7 @@
 
 build-by-default: true
 branches:
-- main
+- master
 projects:
   FirstPlugin:
     path: ""
